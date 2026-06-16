@@ -1,0 +1,7 @@
+INSERT INTO student VALUES (1,'Armen');
+
+INSERT INTO project VALUES (1,'CRM');
+INSERT INTO project VALUES (2,'Online Shop');
+
+INSERT INTO student_project VALUES (1,1);
+INSERT INTO student_project VALUES (1,2);
